@@ -8,7 +8,7 @@ In this task, you will be asked to predict the chances of an user listening to a
 
 ## Goal
 
-Create a model able to predict the value of target (i.e. target = 1 if an user will listen again to the song, target = 0 if not). Train and test your model using the provided dataset.
+Create a model able to predict the value of target (i.e. target = 1 if an user will listen again to the song within a month, target = 0 if not). Train and test your model using the provided dataset.
 
 ## Dataset composition
 
