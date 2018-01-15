@@ -1,16 +1,16 @@
-#test-arnaud-fabre
+# test-arnaud-fabre
 
-##Description
+## Description
 
 A music streaming service has challenged you with a new task.
 
 In this task, you will be asked to predict the chances of an user listening to a song repetitively after the first observable listening event within a time window was triggered. If there are recurring listening event(s) triggered within a month after the user’s very first observable listening event, its target is marked 1, and 0 otherwise in the training set.
 
-##Goal
+## Goal
 
 Create a model able to predict the value of target (i.e. target = 1 if an user will listen again to the song, target = 0 if not). Train and test your model using the provided dataset.
 
-##Dataset composition
+## Dataset composition
 
 The dataset is composed of the following features: 
 
