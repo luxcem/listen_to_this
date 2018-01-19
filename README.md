@@ -1,5 +1,3 @@
-# test-arnaud-fabre
-
 ## Description
 
 A music streaming service has challenged you with a new task.
@@ -12,7 +10,7 @@ Create a model able to predict the value of target (i.e. target = 1 if an user w
 
 ## Dataset composition
 
-The dataset is composed of the following features: 
+The dataset is composed of the following features:
 
 * *msno*: user id
 
